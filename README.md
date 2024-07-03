@@ -1,2 +1,2 @@
 # YouHeal
-#### YouHeal is a hospital system in which doctors can use to write and check on thier patients prescription. Also for patients to check on their prescriptions.
+#### YouHeal is a hospital system in which doctors can use to write thier patients prescriptions. Also patients can check on their prescriptions.Doctors and patients can login and register their accounts.
